@@ -1,0 +1,309 @@
+{
+  "project_info": {
+    "project_number": "515275420831",
+    "firebase_url": "https://dkaledc-default-rtdb.firebaseio.com",
+    "project_id": "dkaledc",
+    "storage_bucket": "dkaledc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:6217614d76c8cc97aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.appauthemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:9a78124ba6dd6613aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.appfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:50c517e4be100ad8aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.demoauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:dd541fe5a7469efbaedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.democrudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:46b6570783316ce2aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-f432spjvrta08lbjks8mkk6p82cji6rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.infnet.demofirebase",
+            "certificate_hash": "41d71349ac01a5eefc8a590ce694e86b8a8355f0"
+          }
+        },
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:3a99cb2f7c7fc963aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.demofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:68c171ec60d25122aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.demorealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:0dd2aaede27fb5e1aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.pbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:11b2aef3698e642daedeaa",
+        "android_client_info": {
+          "package_name": "com.example.firestore.kotlin.lomana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:34cca0e0bb1687beaedeaa",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
