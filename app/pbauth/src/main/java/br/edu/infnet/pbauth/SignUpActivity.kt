@@ -27,7 +27,6 @@ class SignUpActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
 
-        // View Bindings
         etEmail = findViewById(R.id.etSEmailAddress)
         etConfPass = findViewById(R.id.etSConfPassword)
         etPass = findViewById(R.id.etSPassword)
@@ -47,17 +46,16 @@ class SignUpActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-
-
     }
 
     private fun signUpUser() {
+
         val email = etEmail.text.toString()
         val pass = etPass.text.toString()
         val confirmPassword = etConfPass.text.toString()
 
         if (email.isBlank() || pass.isBlank() || confirmPassword.isBlank()) {
-            Toast.makeText(this, "Email and Password can't be blank", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Email and Password can´t be blank", Toast.LENGTH_SHORT).show()
             return
         }
 
@@ -67,10 +65,10 @@ class SignUpActivity : AppCompatActivity() {
             return
         }
 
-        auth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener(this){
+        auth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener(this) {
             if (it.isSuccessful) {
                 Toast.makeText(this, "Successfully Singed Up", Toast.LENGTH_SHORT).show()
-                finish()
+
             } else {
                 Toast.makeText(this, "Singed Up Failed!", Toast.LENGTH_SHORT).show()
             }
