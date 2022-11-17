@@ -66,6 +66,35 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:515275420831:android:501cab6b09b19fe8aedeaa",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.apppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTEqrJuv4JJTo8TJkSZnAzEUUwNHJnjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515275420831-6bp6pbd27g2jetsfjkdeuqdpplun9kf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:515275420831:android:50c517e4be100ad8aedeaa",
         "android_client_info": {
           "package_name": "br.edu.infnet.demoauth"

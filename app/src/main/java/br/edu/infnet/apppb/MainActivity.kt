@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
         //For the next and previous buttons
 
         skip.setOnClickListener(View.OnClickListener { view: View? ->
-            val i = Intent(this@MainActivity, Home::class.java)
+            val i = Intent(this@MainActivity, LoginActivity::class.java)
             startActivity(i)
             finish()
         })
