@@ -4,12 +4,15 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import br.edu.infnet.apppb.databinding.ActivityHomeBinding
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.MobileAds
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
 
 class HomeActivity : AppCompatActivity() {
+
 
     private lateinit var binding : ActivityHomeBinding
 
@@ -19,6 +22,12 @@ class HomeActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
+
+        //Inicialização do Admob
+        MobileAds.initialize(this) {}
+
+       val adRequest = AdRequest.Builder().build()
+       binding.adView.loadAd(adRequest)
 
         getData()
     }
