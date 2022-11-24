@@ -34,7 +34,7 @@
     </com.google.android.gms.ads.AdView>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnInter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="360dp"
@@ -46,14 +46,14 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnInterRew"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="REAWARDED"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/btnInter"
         android:onClick="rewardClick"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
