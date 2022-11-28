@@ -33,12 +33,12 @@ class InstrumentedTest {
         onView(withId(R.id.btn_skip)).perform(click())
 
         onView(withId(R.id.etEmailAddress)).perform(
-            typeText("teste@teste.com"),
+            typeText("ads@ads.com"),
             ViewActions.closeSoftKeyboard()
         )
 
         onView(withId(R.id.etPassword)).perform(
-            typeText("a11111"),
+            typeText("123456"),
             ViewActions.closeSoftKeyboard()
         )
 
@@ -58,6 +58,9 @@ class InstrumentedTest {
         onView(withId(R.id.etSEmailAddress)).perform(typeText("teste@teste.com"), ViewActions.closeSoftKeyboard())
         onView(withId(R.id.etSPassword)).perform(typeText("a11111"), ViewActions.closeSoftKeyboard())
         onView(withId(R.id.etSConfPassword)).perform(typeText("a11111"), ViewActions.closeSoftKeyboard())
+
+
+
     }
 }
 
